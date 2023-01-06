@@ -1,1 +1,3 @@
-# indhar
+{
+"git.ignoreLimitWarning": true
+}
